@@ -28,6 +28,8 @@
 **Reference**  
 [공간분석 사례 – 학원 교습소 공공데이터 공간 집계](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B0%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20Training%20Materials/(260826)%20%EC%A7%80%EC%9E%90%EC%B2%B4%20%EC%97%B0%EA%B5%AC%EC%86%8C%20%EA%B5%90%EC%9C%A1/%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EA%B3%A0%EB%A0%B9%EC%9D%B8%EA%B5%AC%20%EB%B9%84%EC%9C%A8%20%EA%B2%A9%EC%9E%90%EB%B3%84%20%EB%B6%84%EC%84%9D)
 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2a11db01-85f6-4e8e-a2af-88d45d061423" />
+
 ## 사례5. 고흥군 병원, 의료기관 도달 영역 분석
 
 **Reference**  
