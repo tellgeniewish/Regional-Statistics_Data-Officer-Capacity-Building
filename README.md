@@ -35,6 +35,7 @@
 **Reference**  
 [공간분석 사례 – 고흥군 병원, 의료기관 도달 영역 분석](https://github.com/sgisgeodata/sgis-data-manual/blob/main/%EA%B0%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20Training%20Materials/(260826)%20%EC%A7%80%EC%9E%90%EC%B2%B4%20%EC%97%B0%EA%B5%AC%EC%86%8C%20%EA%B5%90%EC%9C%A1/%EA%B5%90%EC%9C%A1%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%A0%ED%9D%A5%EA%B5%B0%20%EB%B3%91%EC%9B%90%20%EC%A7%80%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%20%EC%A0%91%EA%B7%BC%EC%84%B1%20%EB%B6%84%EC%84%9D(ORS%20%ED%99%9C%EC%9A%A9).pdf)
 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/42abb03d-2b67-463f-90f1-255ef2be4ae1" />
 
 ## 사례6. 서울시 인구 행정동별 분석
 
@@ -42,4 +43,3 @@
 [공간분석 사례 – 서울시 인구 행정동별 분석](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B3%B5%EA%B0%84%EB%B6%84%EC%84%9D%20%EC%82%AC%EB%A1%80%20Case%20Studies/Python/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%ED%96%89%EC%A0%95%EB%8F%99%EB%B3%84%20%EB%B6%84%EC%84%9D)
 
 <img width="1189" height="1153" alt="image" src="https://github.com/user-attachments/assets/e7ffe418-5362-44e2-b625-12ce4e6ad8d5" />
-
