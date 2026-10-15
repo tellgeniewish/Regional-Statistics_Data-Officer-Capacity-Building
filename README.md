@@ -2,6 +2,8 @@
 
 20260917 제주도 국가데이터인재개발원 제주분원에서 진행될 SGIS 소지역통계와 공간분석 실습을 위해 분석을 진행했습니다.
 
+[🌐 참고 링크](https://github.com/tellgeniewish/Revised-Edition_SGIS-Small-Area-Statistics-Analysis-Casebook_Beginner-s-Guide)
+
 ## 사례1. 전국 교육서비스업 행정동별 분석
 
 **Reference**  
