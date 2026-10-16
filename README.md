@@ -28,7 +28,7 @@
 ## 사례4. 학원 교습소 공공데이터 공간 집계
 
 **Reference**  
-[공간분석 사례 – 학원 교습소 공공데이터 공간 집계](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B0%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20Training%20Materials/(260826)%20%EC%A7%80%EC%9E%90%EC%B2%B4%20%EC%97%B0%EA%B5%AC%EC%86%8C%20%EA%B5%90%EC%9C%A1/%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EA%B3%A0%EB%A0%B9%EC%9D%B8%EA%B5%AC%20%EB%B9%84%EC%9C%A8%20%EA%B2%A9%EC%9E%90%EB%B3%84%20%EB%B6%84%EC%84%9D)
+[공간분석 사례 – 학원 교습소 공공데이터 공간 집계](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B0%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20Training%20Materials/(260826)%20%EC%A7%80%EC%9E%90%EC%B2%B4%20%EC%97%B0%EA%B5%AC%EC%86%8C%20%EA%B5%90%EC%9C%A1/%ED%95%99%EC%9B%90%20%EA%B5%90%EC%8A%B5%EC%86%8C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EA%B0%84%20%EC%A7%91%EA%B3%84)
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2a11db01-85f6-4e8e-a2af-88d45d061423" />
 
